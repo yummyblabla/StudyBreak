@@ -2,6 +2,12 @@
 
 An android app facilitates forming a healthy studying lifestyle.
 
+This Android app was created during the 27-hour BCIT Co-op Hackathon. My team and I were able to utilize a new technology to provide a working solution to a common problem. We aimed to provide a resource for students to improve their mental and physical health during their study sessions.
+
+With agile methodologies in mind, we held hourly stand-up meetings to delegate tasks, and communicated any successes and impediments that each member came across. This was successful, as each member was working on different features and collectively collaborate as a team.
+
+We achieved 2nd place out of 10 different teams.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
